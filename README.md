@@ -51,4 +51,4 @@ hwnd = win32gui.CreateWindowEx(
 * 5).在新建立的子窗口内绘制图像
 
 ### 4.运行截图：
-![图片](https://github.com/Wanjpeng/nvrjevnkbklremvklmkekrbemk/blob/master/screenshots/媒体1_Trim.gif)
+![图片](https://github.com/Wanjpeng/Live-Wallpaper-Remainder-on-Windows/blob/master/screenshots/媒体1_Trim.gif)
